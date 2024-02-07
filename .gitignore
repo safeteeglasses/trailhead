@@ -1,4 +1,4 @@
 #gitignore template for the trailhead challenges
 #
 #Ignore auto generated test files
-*/.sfdx/*
+*/.sfdx/**
